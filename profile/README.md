@@ -66,16 +66,22 @@ We are committed to constant growth, always learning new technologies and incorp
 <table align="center">
   <tr>
     <td align="center">
-      <img src="./Photo-1.png" alt="Image 1"><br>
-      Frontend developer, creates user-friendly and fast user interfaces.
+      <a href="https://github.com/SAMMMRr">
+        <img src="./Photo-1.png" alt="Image 1"><br>
+        Frontend developer, creates user-friendly and fast user interfaces.
+      </a>
     </td>
     <td align="center">
-      <img src="./Photo-2.png" alt="Image 2"><br>
-      DevOps engineer, ensures the stability and security of the infrastructure.
+      <a href="https://github.com/D1maSASAdmin">
+        <img src="./Photo-2.png" alt="Image 2"><br>
+        DevOps engineer, ensures the stability and security of the infrastructure.
+      </a>
     </td>
     <td align="center">
-      <img src="./Photo-3.png" alt="Image 3"><br>
-      Backend developer, working on the backend and architecture of projects.
+      <a href="https://github.com/Mabykar">
+        <img src="./Photo-3.png" alt="Image 3"><br>
+        Backend developer, working on the backend and architecture of projects.
+      </a>
     </td>
   </tr>
 </table>
