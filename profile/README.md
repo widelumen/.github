@@ -1,5 +1,11 @@
 # 🏢 About
-We strive to create products that improve people's lives and help businesses grow. Our solutions are characterized by stability, flexibility and convenience.
+We are a dynamic IT company that started with a simple idea: to build an entrepreneurial business with just a concept in mind and a commitment to constantly learning the tools to bring it to life. Our team doesn't consist of professional managers, top-tier programmers, or high-powered lawyers, but we are deeply committed to learning and upgrading our skills. We strive to become the very professionals we currently lack. Our journey is just beginning, starting with small projects, but we are gradually expanding our expertise and team, developing unique products and solutions.
+
+Today, our team is focused on creating modern web applications, high-load systems, and SaaS solutions. We are also actively advancing in the Web3 space, developing innovative platforms where users can interact with cryptocurrencies and emerging financial technologies.
+
+Our goal is to be the company that can handle any challenge, no matter how complex your project is or how limited your budget may be. We are always open to building partnerships. We create solutions that help businesses improve their processes and provide a reliable infrastructure for growth. From developing comprehensive CRM systems to creating streaming services with lossless quality, our mission is to make technology accessible and easy to use for everyone.
+
+We are committed to constant growth, always learning new technologies and incorporating them into our products. Our future plans include expanding to international markets, further developing our music platform, and supporting communities that utilize cutting-edge cryptographic technologies.
 
 # 🛠️ Tools  
 
@@ -44,7 +50,6 @@ We strive to create products that improve people's lives and help businesses gro
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
----
 **~~Comming Soon~~**
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
@@ -55,31 +60,31 @@ We strive to create products that improve people's lives and help businesses gro
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![WASM](https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
----
 
-<table>
+# 📷 Our Team
+
+<table align="center">
   <tr>
-    <td style="text-align: center;"><span style="font-size: 2em;">📷</span></td>
-    <td style="text-align: center;"><strong>Our Team</strong></td>
-  </tr>
-  <tr>
-    <td><img src="./Photo-1.png" alt="Ilya"></td>
-    <td style="text-align: center;">Frontend developer, creates user-friendly and fast user interfaces.</td>
-  </tr>
-  <tr>
-    <td><img src="./Photo-2.png" alt="Dima"></td>
-    <td style="text-align: center;">DevOps engineer, ensures the stability and security of the infrastructure.</td>
-  </tr>
-  <tr>
-    <td><img src="./Photo-3.png" alt="Anton"></td>
-    <td style="text-align: center;">Backend developer, working on the backend and architecture of projects.</td>
+    <td align="center">
+      <img src="./Photo-1.png" alt="Image 1"><br>
+      Frontend developer, creates user-friendly and fast user interfaces.
+    </td>
+    <td align="center">
+      <img src="./Photo-2.png" alt="Image 2"><br>
+      DevOps engineer, ensures the stability and security of the infrastructure.
+    </td>
+    <td align="center">
+      <img src="./Photo-3.png" alt="Image 3"><br>
+      Backend developer, working on the backend and architecture of projects.
+    </td>
   </tr>
 </table>
 
-## 🤝 Contacts
+# 🤝 Contacts
 We are always open to new ideas and partnerships. If you have any suggestions or questions, do not hesitate to contact us!
 
-- 🌐 Website: [widelumen.ru](https://widelumen.ru)
-- 📧 Email: info@widelumen.ru
-- 📧 Email: admin@widelumen.ru
-- 📧 Billing: billing@widelumen.ru
+[![Website](https://img.shields.io/badge/Website-00A859?style=for-the-badge&logo=Arc&logoColor=white)](https://widelumen.ru)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@widelumen.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mabykar)
+
+![Views](https://komarev.com/ghpvc/?username=widelumen&style=for-the-badge)
